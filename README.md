@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL:
+- Live Site URL: https://uzelac97.github.io/Restraunt-Website/
 
 ### Built with
 
